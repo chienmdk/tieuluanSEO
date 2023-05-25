@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="máy tính, bàn ghế, máy fax, camera, tủ lạnh, kho tài liệu"> <!-- Đây là khu vực chứa keywords của web -->
+    <title>Shop Ox Force</title>
+    <link rel="stylesheet" href="thietbivanphong.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <!-- Đây là khu vực chứ các liên kết trong trang web -->
+                <ul>
+                    <li><a href="ThietBiVanPhong.html">Ox Force</a></li>
+                    <li><a href="Shop_Ox Force.html">Shop</a></li>
+                    <li><a href="#">Hàng giảm giá</a></li>
+                    <li><a href="#">Hàng bán chạy nhất</a></li>
+                    <li><a href="#">Máy tính làm việc</a></li>
+                    <li><a href="#">Túi đựng hồ sơ</a></li> 
+                    <li><a href="#">Bút mực chống nhòe</a></li><br>
+                    <li><a href="#">Tài liệu in ấn</a></li>
+                    <li><a href="#">Khu vực bảo mật</a></li>
+                    <li><a href="#">Bàn ghế công ti</a></li>
+                    <li><a href="#">Hàng hóa cao cấp</a></li>
+                    <li><a href="#">Camera</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+               
+            </nav>
+        </div>
+    </header>
+    <main> <!-- Đây là khu vực chứa nội dụng chính -->
+        <div class="boss">
+            <h1>NK Cosmetics</h1> <!-- Đây là tên trang web -->
+            <a href="Shop_Ox Force.html" class="btn">Mua hàng</a> <!-- Đây là nút để click vào chuyển hướng qua trang shop -->
+        </div>
+        <div class="featured-products">
+            <div class="container">
+            <div class="intro"> <!-- Đây là phần giới thiệu của trang web -->
+                <p><span class="titleIntro">Ox Force Introduce</span> <br><br><br> <br>Tài sản, thiết bị của cơ quan bao gồm: nhà, đất, vật kiến trúc phương tiện trangthiết bị trong phòng làm việc, nhà ăn, nhà để xe, ... nhằm phục vụ cho hoạt động củacơ quan, doanh nghiệp. Trong cơ quan, doanh nghiệp các trang thiết bị, tài sản đó đượctrang bị rất nhiều, rất đa dạng và phong phú. Đặc biệt, trang thiết bị văn phòng là mộttrong những yếu tố quan trọng bảo đảm năng suất, chất lượng của công tác văn phòng,hỗ trợ nhân viên, cán bộ Công ty hoàn thành tốt nhiệm vụ của mình.</p>
+            </div> 
+            <!-- Đây là các sản phẩm đại diện cho web (bao gồm giá tiền và giới thiệu) -->
+                <div class="product">
+                    <a href="#"><img src="https://cdn.tgdd.vn/Files/2016/02/17/788609/macbook.jpg></a>
+                    <h3>Máy Tính xách tay <span>(Hàng giảm giá)</span></h3>
+                    <p>Di chuyển làm việc linh hoạt</p>
+                    <span>10.000.000VND-20.000.000VND</span>
+                    <a href="#" class="btn">Mua Ngay</a>
+                </div>  
+                <div class="product">
+                    <a href="#"><img src="https://cf.shopee.vn/file/f2d6ce4bfa69dbf9e44c7ec6adb552fb" style="height: 580px;" alt="Product 2"></a>
+                    <h3>Bàn ghế làm việc<span>(Hàng giảm giá)</span></h3>
+                    <p>Tạo cảm giác thoải mái khi làm việc</p>
+                    <span style="text-decoration: line-through;padding-right: 10px;">15.000.000VND</span>
+                    <span>10.000.000VND</span>
+                    <a href="#" class="btn">Mua Ngay</a>
+                </div>
+                <div class="product">
+                    <a href="#"><img src="https://lzd-img-global.slatic.net/g/p/c90c132fc7b9a42351fc0e796ebffcb6.jpg_720x720q80.jpg" style="height: 580px;" alt="Product 3"></a>
+                    <h3>Bút mực không nhòe</h3>
+                    <p>Tạo cảm giác êm ái khi viết bài</p>
+                    <span>4.000VND</span>
+                    <a href="#" class="btn">Mua Ngay</a>
+                </div>
+                <div class="product">
+                    <a href="#"><img src="https://bizweb.dktcdn.net/thumb/1024x1024/100/419/787/products/tu-tai-lieu-6.jpg?v=1644641583007"style="height: 580px;" alt="Product 4"></a>
+                    <h3>Tủ đựng hồ sơ và tài liệu</h3>
+                    <p>Bảo vệ và lưu trữ tài liệu</p>
+                    <span>500.000VND-2.000.000VND</span>
+                    <a href="#" class="btn">Mua Ngay</a>
+                </div>
+                <div class="product">
+                    <a href="#"><img src="https://vtv1.mediacdn.vn/thumb_w/650/2023/3/10/image1-16784190641301343625045-crop-1678419117383482809830.jpg" style="height: 580px;" alt="Product 5"></a>
+                    <h3>Máy in</h3>
+                    <p>Sao chép tài liệu nhanh chóng</p>
+                    <span>2.000.00VND-10.000.000VND</span> 
+                    <a href="#" class="btn">Mua Ngay</a>
+                </div>
+            </div>
+            <div class="end">
+                <!-- Đây là phần kết của một trang web là hình ảnh đại diện cho web -->
+                 <img src="https://phanminh.com.vn/vnt_upload/weblink/SLIDE-THIET-BI-VAN-PHONG.gif" style="height: 600px;width:800px;">
+            </div>
+            <div class="text">
+                <!-- Đây là một câu chuyện của người sáng lập ra -->
+                Our Story<br><br><br>
+                Ý tưởng xuyên suốt Ox Force đó là kết hợp tư vấn quản trị kinh doanh và thiết kế sáng tạo, và đánh vào những vấn đề thuộc nội tại doanh nghiệp. Chỉ như vậy, chúng tôi mới có thể giúp xây dựng những thương hiệu có thể đem lại giá trị thực sự, những thương hiệu có thể phát triển trường tồn. Có một điều nữa đó là, rất nhiều doanh nghiệp tư vấn thương hiệu đang đem về những phương thức tiếp cận của phương Tây và những phương thức này không được tuỳ chỉnh để phù hợp với văn hoá châu Á. Lấy ví dụ, rất nhiều công ty của châu Á được vận hành và sở hữu theo mô hình gia đình và bạn cần phải có một cách tiếp cận hoàn toàn khác để có thể đưa vào triển khai một chiến lược thương hiệu bền vững. Đừng bao giờ giả thiết rằng mọi thứ sẽ hoạt động một cách máy móc và dập khuôn. Đó chính là sự khởi đầu của ý tưởng thành lập Ox Force
+                <br><br><br><br><br><br><br><br><br>
+                     <span class="more">Liên hệ với tôi</span>
+            </div>
+        </div>
+        
+        <!-- Đây là khu vực chứa footer các số điện thoại liên hệ và các sản phẩm được tìm kiếm nhiều,... -->
+          <div class="row">
+            <div class="col-md-4">
+             <b>HỖ TRỢ KHÁCH HÀNG</b><br>
+                <div class="hotro"> 
+                    <span style="color: orange;">Hotline : 1800 1999</span><br>
+                    (miễn phí, 08-22h kể cả T7, CN)<br>
+                    Các câu hỏi thường gặp<br>
+                    Hướng dẫn đặt hàng<br>
+                    Gửi yêu cầu hỗ trợ<br>
+                    Phương thức thanh toán<br>
+                    Phương thức vận chuyển<br>
+                    Chính sách đổi trả
+                </div>
+            </div>
+            <div class="col-md-4">
+                <b> VỀ Ox Force</b><br>
+                <div class="hotro"> 
+                    Giới thiệu tập đoàn<br>
+                    Tuyển dụng<br>
+                    Chính sách bảo mật<br>
+                    Điều khoản sử dụng<br>
+                    Liên hệ
+                </div>
+                <br><span style="font-weight: bold;color: black;">Trả phí</span><br>
+                <img src="C:/Users/DELL/Downloads/Visa-Emblem.jpg" style="width: 40px;">
+                <img src="C:/Users/DELL/Downloads/atm.jfif" style="width: 40px;">
+            </div>
+          
+            <div class="col-md-4">
+                <b>HỢP TÁC VÀ LIÊN KẾT</b><br>
+                <div class="hotro">
+                    Kênh người bán<br>
+                    https://Ox Force city<br>
+                    Ox Force cẩm nang<br>
+                    <img src="https://ccboffice.vn/wp-content/uploads/bfi_thumb/thu-mua-thiet-bi-van-phong-tron-goi217u-73ab5nfqgc6o369m9fclfwj0z9gr0nktme94e6wcx8g.png" style="width: 50px;">
+                    <img src="https://vtv1.mediacdn.vn/zoom/550_339/2020/9/18/cn-cds-1-16004173412071192213147.jpg" style="width: 47px;padding-left: 10px; " >
+                </div>
+            </div>
+          </div>
+
+          <p style="text-decoration: underline; opacity: 0.1; ">______________________________________________________________________________________________________________________________________________________________________</p>
+        
+        <div class="row">
+            <div class="col-md-4">
+                <b>Ox Force mang lại giá trị lớn</b><br><br>
+                    <div class="hotro2">
+                        <spans style="font-weight: bold;">Ox Force</spans> là hệ thống cửa hàng thiết bị chính hãng và dịch vụ cung cấp thiết bị chuyên sâu với hệ thống cửa hàng trải dài trên toàn quốc; và hiện đang là đối tác phân phối chiến lược tại thị trường Việt Nam của hàng loạt thương hiệu lớn như: <span style="color : green;font-weight: bold;">Infinity, Shadow, Aegis, Threat, Klairs, Squad, Duelist, Anima,...</span><br><br>
+                        <spans style="font-weight: bold;">Với phương châm "Mang lại những giá trị lớn”, Ox Force</spans> luôn nỗ lực không ngừng nhằm nâng cao chất lượng sản phẩm & dịch vụ để khách hàng có được những trải nghiệm mua sắm tốt nhất. Toàn bộ sản phẩm có ở  <spans style="font-weight: bold;">NK.vn</spans> đều được cam kết 100% chính hãng, đảm bảo nguồn gốc xuất xứ, có đầy đủ hóa đơn mua hàng VAT và tem phụ Tiếng Việt, với mức giá luôn tốt hàng đầu thị trường trong mọi thời điểm. Ngoài ra, <spans style="font-weight: bold;">OxFoxce</spans> và nhãn hàng cam kết bảo vệ hai lớp với mức đền bù 200% nếu phát hiện hàng giả, trong đó 100% từ Ox Force và 100% từ nhà phân phối, văn phòng đại diện hãng tại Việt Nam.<br><br>
+                        <span style="font-weight: bold; color: green;">Ox Force</span> sở hữu đa dạng các mặt hàng từ cao cấp đến bình dân, đáp ứng mọi nhu cầu của khách hàng. Đặc biệt, tại  <spans style="font-weight: bold;">NK.vn</spans> luôn có đầy đủ mẫu thử của mỗi sản phẩm và nhân viên tư vấn, giúp khách hàng dễ dàng chọn lựa và tăng trải nghiệm mua sắm.<br><br>
+                        Đối với khách hàng online, <spans style="font-weight: bold;">NK.vn</spans> áp dụng GIAO NHANH 2H MIỄN PHÍ cho đơn hàng từ <spans style="font-weight: bold;">90.000đ</spans> tại các khu vực: Hồ Chí Minh - Hà Nội - Hải Phòng - Pleiku - Cà Mau - Tây Ninh - Long An - Vĩnh Long - Phan Thiết - Đà Lạt - Long Xuyên - Bạc Liêu - Cao Lãnh - Nha Trang - Trà Vinh - Huế - Bến Tre - Đăk Lắk - Đà Nẵng - Tiền Giang - Kiên Giang - Cần Thơ - Vũng Tàu - Bình Dương - Biên Hòa. <spans style="font-weight: bold;">Đơn hàng từ 249.000đ, NK.vn</spans> giao MIỄN PHÍ TOÀN QUỐC. <br><br>
+                        Ngoài ra,  <spans style="font-weight: bold;">Ox Force</spans> còn có app TF cung cấp cho khách hàng trải nghiệm mua sắm online nhanh chóng, tiện lợi cùng nhiều khuyến mãi hấp dẫn. Không chỉ vậy, khách hàng còn được giảm ngay 5% khi nhập mã TFsale cho đơn hàng đầu tiên trên ứng dụng. Tải ngay  <spans style="font-weight: bold;">APP NK</spans> cho hệ điều hành IOS tại đây, phiên bản cho hệ điều hành Android <spans style="font-weight: bold;color: green;">tại đây</spans>. 
+                       <br><br> <b>Top tìm kiếm</b><br><br>
+                       <input type="button" value="máy tính xách tay">
+                       <input type="button" value="bàn làm việc">
+                       <input type="button" value="bút mực">
+                       <input type="button" value="tài liệu ">
+                       <input type="button" value="giấy ">
+                       <p style="text-decoration: underline; opacity: 0.1; ">________________________________________________________________________________________________________________________________________</p>
+                    </div>
+            </div>
+
+
+            <div class="vertical-line"></div>
+
+
+
+            <div>
+                <div > 
+                <span style="font-size: 13px; color: black;"><b>Được chứng nhận</b></span><br>
+                    <div class="hotro3">
+                        <img src="C:/Users/DELL/Downloads/20150827110756-dathongbao-1024x388.png" style="width: 180px;"><br><br>
+                        <span style="font-size: 13px;color: black;"><b>Bản quyền © 2016 NK.vn</b></span><br><br>
+                        Công Ty cổ phần NK Cosmetis<br><br>
+                        <span style="text-decoration: underline;padding-right: 10px;color: black; font-size: 18px;">HỒ CHÍ MÌNH</span><br>
+                        <b>Quận Tân Bình</b><br><br>
+                        <div style="color: grey;">
+                            536 Âu Cơ<br>
+                            536 Hoàng Hoa Thám<br>
+                            536 Cách Mạng Tháng Tám<br>
+                            <div style="color: orange;">Xem tất cả chi nhánh NK</div>
+                        </div>
+                        <p style="text-decoration: underline; opacity: 0.1; ">_________________________________</p>
+                        Giấy chứng nhận Đăng ký Kinh doanh số 0313612829<br> do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp<br> ngày 13/01/2016
+
+                </div>
+            </div>
+        </div> 
+
+
+        <div class="row">
+            <div class="col-md-6">
+                <span style="color: black;"><b>Danh Mục Sản Phẩm</b></span><br><br>
+             <span class="ht">Thiết bị chính hãng</span>
+                <div class="hotro1"> 
+                    Máy tính / Bàn làm việc / máy fax / Máy in / Giấy / Tủ hồ sơ / Tài liệu / Tạo Khối - Highlighter
+                </div>
+        
+
+                <br><div class="ht">Phụ Kiện </div>
+            </div>
+                <br><div class="ht">Hồ sơ</div>
+                <div class="hotro1"> 
+                    Thiết bị
+                </div>
+            </div>  
+          </div>
+    </main>
+</body>
+</html>
